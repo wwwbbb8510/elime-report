@@ -99,4 +99,3 @@
 ![](./explanations/n02051845-ILSVRC2012_val_00026711.JPEG)
 ![](./explanations/n04550184-ILSVRC2012_val_00014621.JPEG)
 ![](./explanations/n02092002-ILSVRC2012_val_00018121.JPEG)
-![](./explanations/n02892767-ILSVRC2012_val_00026923.JPEG)
